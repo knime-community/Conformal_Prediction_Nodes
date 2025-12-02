@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Automatic-Module-Name: se.redfield.cp
 Bundle-Name: Conformal Prediction extension for KNIME Workbench
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Bundle-SymbolicName: se.redfield.cp; singleton:=true
 Bundle-Version: 2.1.0.qualifier
 Bundle-ClassPath: .
